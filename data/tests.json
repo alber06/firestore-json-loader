@@ -1,0 +1,72 @@
+{
+  "tests": {
+    "59255bc77327cb0010e10739": {
+      "-LlgYSkzdjKoARZSUzP2": {
+        "appCodeName": "Mozilla",
+        "appName": "Netscape",
+        "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",
+        "audio": false,
+        "clientId": "59255bc77327cb0010e10739",
+        "cookieEnabled": true,
+        "created": "2019-08-07T14:48:52.030Z",
+        "deviceMemory": 8,
+        "domains": true,
+        "downloadTime": "13 ms",
+        "emailReceptionDate": "2019-08-08T11:36:47.626Z",
+        "emailStatus": "RECEIVED",
+        "graphics": true,
+        "hardwareConcurrency": 8,
+        "lang": "es",
+        "language": "es-ES",
+        "languages": ["es-ES", "es"],
+        "maxTouchPoints": 0,
+        "notification": {
+          "created_at": "2019-08-08T13:03:55.686Z",
+          "received_at": "2019-08-12T09:01:43.603Z",
+          "status": "confirmed"
+        },
+        "onLine": true,
+        "platform": "MacIntel",
+        "product": "Gecko",
+        "productSub": "20030107",
+        "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",
+        "vendor": "Google Inc.",
+        "vendorSub": ""
+      },
+      "5af150f84491280015f15713": {
+        "-LlXL7lHG_L7HhttT3xd": {
+          "appCodeName": "Mozilla",
+          "appName": "Netscape",
+          "appVersion": "5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",
+          "audio": false,
+          "clientId": "59255bc77327cb0010e10739",
+          "cookieEnabled": true,
+          "created": "2019-08-07T14:48:52.030Z",
+          "deviceMemory": 8,
+          "domains": true,
+          "downloadTime": "13 ms",
+          "emailReceptionDate": "2019-08-08T11:36:47.626Z",
+          "emailStatus": "RECEIVED",
+          "graphics": true,
+          "hardwareConcurrency": 8,
+          "lang": "es",
+          "language": "es-ES",
+          "languages": ["es-ES", "es"],
+          "maxTouchPoints": 0,
+          "notification": {
+            "created_at": "2019-08-08T13:03:55.686Z",
+            "received_at": "2019-08-12T09:01:43.603Z",
+            "status": "confirmed"
+          },
+          "onLine": true,
+          "platform": "MacIntel",
+          "product": "Gecko",
+          "productSub": "20030107",
+          "userAgent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/75.0.3770.142 Safari/537.36",
+          "vendor": "Google Inc.",
+          "vendorSub": ""
+        }
+      }
+    }
+  }
+}
