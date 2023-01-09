@@ -9,6 +9,6 @@
   "author": "Alberto Fernández",
   "license": "ISC",
   "dependencies": {
-    "firestore-export-import": "^0.2.6"
+    "firestore-export-import": "^1.3.5"
   }
 }
